@@ -5,9 +5,11 @@ A responsive React component that displays 150 employee records in a Bootstrap t
 ## Output
 
 ### Employee Table
+
+### Table View
 ![Output 1](output/output1.png)
 
-### Search / Sort / Pagination
+### Search / Pagination View
 ![Output 2](output/output2.png)
 
 ## Features
