@@ -1,0 +1,53 @@
+body {
+  background: #f4f7fb;
+}
+
+.employees-wrapper {
+  max-width: 1150px;
+  margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  background: #fff;
+  border: 1px solid #cfe2f3;
+  border-radius: 6px;
+}
+
+.employees-title {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+}
+
+.employees-table thead th {
+  background: #cfe8fc; /* light blue header */
+  color: #0b2e4f;
+  white-space: nowrap;
+  border-color: #b6d4ee;
+}
+
+.employees-table tbody td {
+  background: #fff; /* white data rows */
+  vertical-align: middle;
+}
+
+.salary-header {
+  cursor: pointer;
+  user-select: none;
+}
+
+.sort-icon {
+  margin-left: 6px;
+}
+
+.empty-row td {
+  text-align: center;
+  font-style: italic;
+  color: #6c757d;
+}
+
+.pagination-footer .form-select {
+  width: auto;
+}
+
+.page-text {
+  font-weight: 600;
+}
